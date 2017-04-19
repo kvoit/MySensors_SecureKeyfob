@@ -1,0 +1,7 @@
+Gerber
+*.bak
+*-bak
+*-rescue.lib
+*-cache.lib
+*.dxf~
+_saved*

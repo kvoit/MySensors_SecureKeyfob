@@ -1,4 +1,4 @@
-update=Di 18 Apr 2017 13:55:12 CEST
+update=Mi 19 Apr 2017 20:14:13 CEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -66,3 +66,13 @@ LibName34=/home/kay/Documents/KiCAD/libraries/mysensors_symbols/mysensors_mcu
 LibName35=/home/kay/Documents/KiCAD/libraries/mysensors_symbols/mysensors_arduino
 LibName36=switches
 LibName37=/home/kay/Documents/KiCAD/libraries/SparkFun-Kicad-Libraries/SparkFun-RF
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60

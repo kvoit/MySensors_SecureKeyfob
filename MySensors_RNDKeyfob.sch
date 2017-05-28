@@ -695,4 +695,23 @@ Wire Wire Line
 Wire Wire Line
 	4950 5200 5200 5200
 NoConn ~ 7100 3000
+$Comp
+L R R5
+U 1 1 592AF611
+P 2850 6600
+F 0 "R5" V 2930 6600 50  0000 C CNN
+F 1 "R" V 2850 6600 50  0000 C CNN
+F 2 "Resistors_SMD:R_0603" V 2780 6600 50  0001 C CNN
+F 3 "" H 2850 6600 50  0001 C CNN
+	1    2850 6600
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	3000 6600 3150 6600
+Wire Wire Line
+	3150 6600 3150 6500
+Wire Wire Line
+	2700 6600 2450 6600
+Text Label 2450 6600 0    60   ~ 0
+vcc
 $EndSCHEMATC
